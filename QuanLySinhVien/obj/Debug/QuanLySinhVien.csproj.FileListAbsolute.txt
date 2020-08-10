@@ -1,0 +1,10 @@
+F:\C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe.config
+F:\C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.exe
+F:\C#\QuanLySinhVien\QuanLySinhVien\bin\Debug\QuanLySinhVien.pdb
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csprojAssemblyReference.cache
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Properties.Resources.resources
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.GenerateResource.cache
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.csproj.CoreCompileInputs.cache
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.exe
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.pdb
+F:\C#\QuanLySinhVien\QuanLySinhVien\obj\Debug\QuanLySinhVien.Form1.resources
