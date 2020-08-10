@@ -1,0 +1,13 @@
+CREATE TABLE sinh_vien (
+	id CHAR(10) PRIMARY KEY,
+	ho_ten NVARCHAR(30) NOT NULL,
+	ngay_sinh DATE NOT NULL,
+	lop CHAR(10) NOT NULL,
+	que NVARCHAR(30) NOT NULL,
+	diem_toan DECIMAL(4, 2) NOT NULL,
+	diem_ly DECIMAL(4, 2) NOT NULL,
+	diem_hoa DECIMAL(4, 2) NOT NULL,
+	diem_anh DECIMAL(4, 2) NOT NULL,
+	diem_tb DECIMAL(4, 2) NOT NULL
+);
+INSERT INTO sinh_vien VALUES('1851061855', 'Nguyen Danh Thanh', '2000/08/09', '60TH5', 'Ha Noi', 9, 9, 9, 9, 9)
